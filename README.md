@@ -1,1 +1,1 @@
-# Laptop-Price-Prediction
+# Laptop-Price-Prediction :- My project predicts the price of laptops based on user input. The problem I am addressing is that there are many different combinations of configurations that can be done, so if someone wants to buy a new laptop, then my website should have all the prices sorted by their configuration.
